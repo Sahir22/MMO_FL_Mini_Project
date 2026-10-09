@@ -50,6 +50,7 @@ pip install -r requirements.txt
 **MVSA-Single**
 - [Hugging Face mirror](https://huggingface.co/datasets/Nicolem/MVSA_Single)
 - Extract so the layout is `MVSA_Single/data/*.jpg`, `MVSA_Single/data/*.txt`, `MVSA_Single/labelResultAll.txt`
+- MVSA logic is integrated, but results are not available for this yet
 
 ---
 
